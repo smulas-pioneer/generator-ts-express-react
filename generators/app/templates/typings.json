@@ -1,0 +1,18 @@
+{
+  "ambientDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
+    "flux": "registry:dt/flux#0.0.0+20160317120654",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#4.0.0+20160509082809",
+    "react": "registry:dt/react#0.14.0+20160423065914",
+    "react-bootstrap": "registry:dt/react-bootstrap#0.0.0+20160423135514",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160501131543"
+  },
+  "dependencies": {
+    "moment": "registry:npm/moment#2.10.5+20160211003958"
+  }
+}
