@@ -1,7 +1,7 @@
 {
-  "name": "my-wonderful-app1",
+  "name": "<%= title %>",
   "version": "1.0.0",
-  "description": "my-wonderful-app1",
+  "description": "<%= title %>",
   "main": "server.js",
   "scripts": {
     "test": "jasmine"

@@ -15,7 +15,7 @@
     "react",
     "express"
   ],
-  "author": "",
+  "author": "Simone Mulas @smulas",
   "license": "ISC",
   "files": [
     "generators/app"

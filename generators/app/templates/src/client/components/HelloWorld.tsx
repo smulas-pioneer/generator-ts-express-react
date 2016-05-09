@@ -7,9 +7,9 @@ export class HelloWorld extends React.Component<any,any> {
     }
     render(){
         return (
-           <BS.Button bsStyle="primary">
-                Hello World!
-           </BS.Button>
+           <BS.Label>
+                <%= title %>
+           </BS.Label>
         );
     }
 }
