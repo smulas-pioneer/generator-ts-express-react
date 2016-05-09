@@ -10,7 +10,10 @@
     "url": "https://github.com/vgmr/generator-ts-express-react.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "typescript",
+    "react",
+    "express"
   ],
   "author": "",
   "license": "ISC",
