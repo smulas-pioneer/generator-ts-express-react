@@ -1,6 +1,6 @@
 {
   "name": "generator-ts-express-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "typescript generator react-flux/express",
   "main": "index.js",
   "scripts": {
